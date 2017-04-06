@@ -150,7 +150,7 @@ def Black_Ninja():
 	 			print vermelho+"  |       ♚ ✘✘✘ Die Acount... Login Down! ✘✘✘           |"
 	 			print vermelho+"  |       ♚ ✘✘✘ Login Ou Senha Incorretos! ✘✘✘          |"
 	 			print vermelho+"  |                  ♚ ✅ Login:                        |"
-	 			print verde + "[+] Email > %s" % user,"\n","[+] Password Found > %s" % password, "\n"
+	 			print vermelho + "[+] Email > %s" % user,"\n","[+] Password Found > %s" % password, "\n"
 	 			print vermelho + GhostLab
 	 		else:
 	 			print (verde + Solyd)
