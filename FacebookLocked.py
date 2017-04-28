@@ -26,7 +26,7 @@ Cicada3301 = """
 		     ───▀██▌▐█▌▐██▀  
 		     ▄██████─▀─██████▄ 
         +=========================================+
-        |......♚ Solyd - Sistema de Ensinos.......|
+        |.....♚ Facebook Unlocked BruteForce......|
         +-----------------------------------------+
         |♚ Coded: @DreadPirateRobertt (Telegram)  |
         |♚ Date: 05/04/2017                       |
